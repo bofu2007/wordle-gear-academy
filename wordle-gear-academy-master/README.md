@@ -1,6 +1,6 @@
 # Kami Wordle Gear Academy
 * For the intermediate course.
-* My ID is `Kami 105`.
+* My ID is `bofu zhang 38`.
 
 # Description
 * This project contains two programs: `wordle-session` and `wordle-program`. Therefore, you need to build both programs separately using `cargo build`.
